@@ -18,7 +18,7 @@ SATs in CNF are now generated in the `sat/data` dir.
 Deactivate the conda environment with `conda deactivate`.
 
 ### Install explainer
-Navigate to GNN model explainer dir `/explainer`.
+Navigate to GNN model explainer dir `/gnn_explainer`.
 
 It is recommended to run this code inside a `virtualenv` with `python3.7`.
 ```
@@ -55,7 +55,5 @@ You should then have access to visualizations served from `localhost`.
 
 ## References
 - `GNNExplainer: Generating Explanations for Graph Neural Networks` by [Rex Ying](https://cs.stanford.edu/people/rexy/), [Dylan Bourgeois](https://dtsbourg.me/), [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/), [Marinka Zitnik](http://helikoid.si/cms/) & [Jure Leskovec](https://cs.stanford.edu/people/jure/), presented at [NeurIPS 2019](nips.cc).
-
-[[Arxiv]](https://arxiv.org/abs/1903.03894) [[BibTex]](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1903-03894) [[Google Scholar]](https://scholar.google.com/scholar?q=GNNExplainer%3A%20Generating%20Explanations%20for%20Graph%20Neural%20Networks%20Rex%20arXiv%202019)
 
 - [*Learning local search heuristics for Boolean satisfiability*](https://papers.nips.cc/paper/9012-learning-local-search-heuristics-for-boolean-satisfiability) by Emre Yolcu, Barnabas Poczos, presented at [NeurIPS 2019](nips.cc).
